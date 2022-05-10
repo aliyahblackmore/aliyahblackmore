@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliyahblackmore
 - 👀 I’m interested in Afro-Caribbean historical narratives, zine making, and digital writing and strategy to meet needs of people who use the content the most.
 - 🌱 I’m currently learning more about Drupal.
-- 💞️ I’m looking to collaborate on zine making as a form of activating conversation and community buildin
+- 💞️ I’m looking to collaborate on nuanced conversations on identity and digital writing and zine making as a form of activating conversation and community building.
 
 <!---
 aliyahblackmore/aliyahblackmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
