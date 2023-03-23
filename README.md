@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliyahblackmore
-- 👀 I’m interested in digital writing and strategy to meet needs of people who use the content the most, Afro-Caribbean historical narratives, and zine making.
+- 👀 I’m interested in digital writing and strategy to meet needs of people who use the content the most. I'm also interested in Afro-Caribbean historical narratives and zine making.
 - 🌱 I’m currently learning more about Drupal.
 - 💞️ I’m looking to collaborate on nuanced conversations about identity and digital writing and zine making as a form of activating conversation and community building.
 
