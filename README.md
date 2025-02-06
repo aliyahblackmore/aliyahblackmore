@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @aliyahblackmore
-- 💞️ I’m looking to collaborate on nuanced conversations about identity and digital writing as a form of activating conversation and community building.
+- 👋 Hi.
 
 <!---
 aliyahblackmore/aliyahblackmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
